@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817252986821",
+    "project_id": "navadhyay",
+    "storage_bucket": "navadhyay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817252986821:android:30606d4a346c96f3d825ac",
+        "android_client_info": {
+          "package_name": "com.example.navadhyay23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxps_xmqrsmw7bBcPItY_GqhzJmU7kYGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
