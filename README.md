@@ -73,6 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Relive your college memories with the College Memories Wall app! 🎓✨
-```
 
-Replace placeholders like `your-username` and `Your Name` with your actual GitHub information. Customize the content further based on your app's specifics.
